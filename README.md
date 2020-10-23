@@ -96,6 +96,7 @@ function pow(x, n) {
     let result = 1;
 ```
 + bad example
+```
 function pow(x, n) {
   if (n < 0) {
     alert("Отрицательные значения 'n' не поддерживаются");
